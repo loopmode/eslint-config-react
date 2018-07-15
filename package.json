@@ -1,0 +1,8 @@
+{
+  "name": "@loopmode/eslint-config-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:loopmode/eslint-config-react.git",
+  "author": "Jovica Aleksic <jovica.aleksic@loopmode.de>",
+  "license": "MIT"
+}
